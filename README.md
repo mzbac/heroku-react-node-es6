@@ -19,7 +19,7 @@ Run Test
 ```
 npm run test-ci
 ```
-Production build(prodution bundles are in /public )
+Production build(client side prodution bundles are in /public, server side production build in /build)
 ```
 npm run build
 ```
