@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/server/routes.js"],"names":["routes","router"],"mappings":";;;;;;AACA,IAAMA,SAAS,SAATA,MAAS,CAACC,MAAD,EAAY;AACzB,SAAOA,MAAP;AACD,CAFD;kBAGeD,M","file":"routes.js","sourcesContent":["\nconst routes = (router) => {\n  return router;\n};\nexport default routes;\n"]}
