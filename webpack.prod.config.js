@@ -32,6 +32,7 @@ module.exports = {
       },
     }),
     new HtmlWebpackPlugin({
+      googleApiKey: 'apikey',
       template: 'index.template.ejs',
       inject: 'body',
     }),

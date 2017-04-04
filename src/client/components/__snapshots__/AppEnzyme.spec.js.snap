@@ -1,0 +1,6 @@
+exports[`test shallow renders App correctly 1`] = `
+<div>
+  App
+  <Card />
+</div>
+`;
